@@ -3,7 +3,7 @@
 
 This is where I’m documenting my path into cybersecurity — what I learn, what I break, and what I figure out along the way.
 
-I’m not an expert (yet). This repo is just honest progress — small wins, confusion, and hands-on practice.
+I’m not an expert (yet). This repo is just honest progress — small wins and hands-on practice.
 
 ---
 
