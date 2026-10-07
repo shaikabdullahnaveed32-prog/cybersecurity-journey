@@ -25,16 +25,5 @@ I’m not an expert (yet). This repo is just honest progress — small wins and 
 * Nmap (starting to understand scans)
 * BeEF (tried setting it up — still exploring)
 
----
-
-## 🎓 Currently Learning
-
-* Google IT Support Professional Certificate
-
----
-
-## 🎯 Goal
-
-Get into cybersecurity, gain real experience, and eventually move into penetration testing.
 
 
